@@ -551,3 +551,5 @@ php artisan generate:migration create_tags_table --fields="name:string"
 php artisan generate:pivot posts tags
 ```
 
+--test--
+
